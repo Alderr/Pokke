@@ -1,0 +1,3 @@
+[submodule "pokke-graphql-server"]
+	path = pokke-graphql-server
+	url = https://github.com/Alderr/pokke-graphql-server.git
